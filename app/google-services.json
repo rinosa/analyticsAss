@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467950527912",
+    "project_id": "analytics-firebase-c7595",
+    "storage_bucket": "analytics-firebase-c7595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467950527912:android:58cbf9b0779cc8af00a99d",
+        "android_client_info": {
+          "package_name": "com.example.analyticsass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467950527912-acf8oltr0s4dr4h6520s62efrdebqccl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANCSC7RaDnZcmr5S3tqDYOzBanaUwu038"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467950527912-acf8oltr0s4dr4h6520s62efrdebqccl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
